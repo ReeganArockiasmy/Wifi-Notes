@@ -11,7 +11,7 @@
 	wifi signal and enhancing the overall signal quality over long distance.
 	Extender repeats the signals from an existing wifi router or access point(AP)
  ```
- #### What is WEP
+ #### What is Wep
  ```
 	Wired Equivalent Privacy(WEP)
 	Its weaker Security level
